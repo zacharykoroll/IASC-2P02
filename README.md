@@ -6,4 +6,4 @@
 
 ## Blog post
 
-First sentence of blog post goes here... [continue reading](blog)
+First sentence of blog post goes here... [continue reading](Blog)
