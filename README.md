@@ -1,3 +1,7 @@
-# IASC-2P02
-Repository for IASC 2P02
-Hey world
+# IASC - 2P02 Zachary Koroll
+
+My bio here #
+
+![GitHub Logo](/images/can.jpg)
+
+##First sentence of blog post here ##
