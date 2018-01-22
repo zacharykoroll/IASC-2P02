@@ -2,6 +2,6 @@
 
 My bio here #
 
-![GitHub Logo](/Images/can.jpg)
+![](/Images/Can.jpg)
 
 ##First sentence of blog post here ##
