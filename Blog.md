@@ -1,12 +1,13 @@
 
 
+
 # My Thoughts on GRAPHS, MAPS, TREES
 
 
 Following the reading of GRAPHS, MAPS, TREES by Franco Moretti, there was a spike of interest in his discussion of genres on page 82 discussing the generational shift. One point stood out to me was "Books survive if they are read and disappear if they aren’t"(Moretti, 2007) this is what creates a generational shift. Prior to the development of the modern printing press online reading this was a literal generational shift it took years for genres in books to change but do to the accessibility of literature a shift in a genre could on take a week. Moretti explains a grouping of genres from the 1760's to 1880's "Forty-four genres over 160 years; but instead of finding one new genre every four years or so, over two thirds of them cluster in just thirty years, divided in six major bursts of creativity: the late 1760s, early 1790s, late 1820s, 1850, early 1870s, and mid-late 1880s". (Moretti, 2007) When focusing in on the trend of these genres changing more frequently could be explained by the technology and availability to literature during each period. Knowing there is a possibility that the gap between genre change could be due to the advancement of technology Moretti should dig deeper on this argument of the generational shift in genres in books and expand it to movies, TV shows popular media. Moretti could expand on his arguments in a modernist perspective pertaining to Movies. Moretti should expand past books because they are a thing of the past the majority of our population will interact with a media based actives a number of times a day whereas they may interact with a novel once or twice a week. What we watch and see through popular media can eventually translate into what we believe in. In Moya Bailey's article in 2015 she discussed the mistreatment of black trans women in the health care system and by the general public and later in the article expands her argument referencing The Crying game a film from 1992  that displays a man vomiting when he finds out the "woman" he loves is trans. This was a movie from 1992, 23 years before this article was originally published could still have a gruesome effect on modern-day society (Bailey, 2015). This was brought to light when Moretti explained on page 90 "Do cycles and genres explain everything, in the history of the novel? "(Moretti, 2007) Moretti answered this question no, but it does display the current overall interest during that period. Following genre trends in the past could become a very interesting tool in establishing a basis for what was trending in that current period and what was felt toward different subject in this case what  might have been thought about the trans community .  
  
 
-
+![](images/trees.png)
 Cirrus of Moretti's Graphs, Maps, Trees (Voyant tools) 
  
  
