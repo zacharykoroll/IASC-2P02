@@ -8,6 +8,11 @@ Following the reading of GRAPHS, MAPS, TREES by Franco Moretti, there was a spik
  
 
 ![](images/trees.png)
+
+#
+#
+#
+#
 Cirrus of Moretti's Graphs, Maps, Trees (Voyant tools) 
  
  
