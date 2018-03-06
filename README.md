@@ -6,4 +6,4 @@
 
 ## Blog post
 
-Following the reading of GRAPHS, MAPS, TREES by Franco Moretti, ... [continue reading](Blog)jfjfjfjfjfjfjfj
+Following the reading of GRAPHS, MAPS, TREES by Franco Moretti, ... [continue reading](Blog)
