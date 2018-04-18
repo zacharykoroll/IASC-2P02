@@ -1,3 +1,4 @@
+
 ## IASC 2P02 Zachary Koroll
    
 
@@ -24,6 +25,7 @@ My names Zachary Koroll I'm a fourth year IASC student graduating in the fall of
 <p> For my collaborative project I took part in working along side Anna, Gavin and Jimmy and we focused on Hypercities, which is a digital media learning tool that uses mapping and overlay function allowing a collaboration with the historical layers of a city. What it allows you to do is use coordinates to overlay maps onto modern maps or mapping systems like google earth allowing the comparison of the two maps. This digital media tool also has a collection of published historical material you can browse and go through looking at others findings.Throughout this collaborative project I was focused on the task at hand of finding research findings. My group assigned me the task to research what the general purpose of the project was, what its main feature's contained and background information on the creators and where it was produced. I approached this finding core resources through the main web page, but also through many academic resource's like Super Search from Brock Universities webpage. This is some of the information I contributed to our collaborative project<a href="https://github.com/IascAtBrock/IASC-2P02-TeamPresentations/blob/Team4/General%20Documents/zach%20findings"> [Click Here] </a>.</p>
 
 ![](images/hyp.png)
+
 <p> 
 This helped enriched my thinking by learning to use academic sources and to post references and paraphrase the work before publishing to a webpage to avoid plagiarism.  We tackled this as a team communicating through our Github page for meeting times, this allowed us to have set times and places to meet and to finalize our project. This will help advance me in the future advancing my research agenda by completing good time management skills and communication skills. This collaborative project allowed me to listen to other peoples opinions and ideas expanding on them or reducing them to maintain the focus of the task. Although there were a few hiccups while completing this project as a group we proceeded to push through displaying an amazing presentation. This is will help me advance later in life having these core communication and time management skills allowing me to work effectively and exceed the expectations of the task at hand.   </p>
    
