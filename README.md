@@ -13,4 +13,4 @@ My names Zachary Koroll I'm a fourth year IASC student graduating in the fall of
 Following the reading of GRAPHS, MAPS, TREES by Franco Moretti, ... [continue reading](Blog)
 
 ## Solo Presentation
-<a href="https://zacharykoroll.github.io/IASC-2P02/reveal/index.html"> [click here] </a>
+<a href="https://zacharykoroll.github.io/IASC-2P02/reveal/index.html"> [ Pecha Kucha Link] </a>
