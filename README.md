@@ -30,7 +30,7 @@ This helped enriched my thinking by learning to use academic sources and to post
 <a href="https://docs.google.com/presentation/d/14dArW897tEvWuU2PMr2sL6Valei03PWGEuCuQIKrX8g/edit?usp=sharing"> [Link to Presentation] </a>
 
 ## Research Presentation
-<a href="https://zacharykoroll.github.io/IASC-2P02/reveal/index.html"> [ Walter Pichler: Portable Living Room] </a>
+<a href="https://zacharykoroll.github.io/IASC-2P02/reveal/index.html"> Walter Pichler: Portable Living Room </a>
 
 
 ## Blog Post
