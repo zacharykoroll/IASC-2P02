@@ -1,4 +1,4 @@
- 
+ # IASC 2P02 Zachary Koroll
    
 
 ## My Biography  
@@ -33,7 +33,7 @@ This helped enriched my thinking by learning to use academic sources and to post
 <a href="https://zacharykoroll.github.io/IASC-2P02/reveal/index.html"> Walter Pichler: Portable Living Room </a>
 
 
-## Blog Post
+## Academic Blog
 
 Following the reading of GRAPHS, MAPS, TREES by Franco Moretti, ... [continue reading](Blog)
 
