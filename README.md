@@ -35,7 +35,7 @@ This helped enriched my thinking by learning to use academic sources and to post
 
 ## Academic Blog
 
-Following the reading of GRAPHS, MAPS, TREES by Franco Moretti, ... [continue reading](Blog)
+Following the reading of GRAPHS, MAPS, TREES by Franco Moretti, ... [continue reading] (Blog)
 
 
 
