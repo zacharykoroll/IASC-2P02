@@ -1,4 +1,4 @@
- # IASC 2P02 Zachary Koroll
+## IASC 2P02 Zachary Koroll
    
 
 ## My Biography  
@@ -25,7 +25,7 @@ My names Zachary Koroll I'm a fourth year IASC student graduating in the fall of
 
 ![](images/hyper2.png)
  
-This helped enriched my thinking by learning to use academic sources and to post references and paraphrase the work before publishing to a webpage to avoid plagiarism.  We tackled this as a team communicating through our Github page for meeting times, this allowed us to have set times and places to meet and to finalize our project. This will help advance me in the future advancing my research agenda by completing good time management skills and communication skills. This collaborative project allowed me to listen to other peoples opinions and ideas expanding on them or reducing them to maintain the focus of the task. Although there were a few hiccups while completing this project as a group we proceeded to push through displaying an amazing presentation. This is will help me advance later in life having these core communication and time management skills allowing me to work effectively and exceed the expectations of the task at hand.   
+This helped enriched my thinking by learning to use academic sources and to post references and paraphrase the work before publishing to a webpage to avoid plagiarism.  We tackled this as a team communicating through our Github page for meeting times, this allowed us to have set times and places to meet and to finalize our project. This will help advance me in the future advancing my research agenda by completing good time management skills and communication skills. This collaborative project allowed me to listen to other peoples opinions and ideas expanding on them or reducing them to maintain the focus of the task. Although there were a few hiccups while completing this project as a group we proceeded to push through displaying an amazing presentation. This is will help me advance later in life having these core communication and time management skills allowing me to work effectively and exceed the expectations of the task at hand.   </p>
    
 <a href="https://docs.google.com/presentation/d/14dArW897tEvWuU2PMr2sL6Valei03PWGEuCuQIKrX8g/edit?usp=sharing"> Link to Presentation </a>
 
